@@ -1,0 +1,1 @@
+funny clip to tell you how to learning online: https://youtu.be/W6yEALqsD7k?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&t=146
