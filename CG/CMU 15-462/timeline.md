@@ -1,5 +1,15 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 2:
+L2 Norm of functions
+
+numerical integration (Later on)
+
+Inner Product
+
+Wait to watch linear maps.
+
+
 Lecture 1 watched, please watch: https://www.youtube.com/watch?v=2c8XQlQApx8&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=3
 
 Lecture 1:
