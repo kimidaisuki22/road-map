@@ -1,5 +1,12 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 3: triple product formula: det(u,v,w) =  dot(cross(u,v) ，w)
+
+Differential Operators
+
+Gradient
+#tmp progress https://youtu.be/O7Bec2uX3ZQ?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&t=3271
+
 Lecture 2 finished, Goto https://www.youtube.com/watch?v=O7Bec2uX3ZQ&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=4
 
 Lecture 2:
