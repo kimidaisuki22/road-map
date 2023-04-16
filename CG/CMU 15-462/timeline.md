@@ -1,5 +1,7 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 2 finished, Goto https://www.youtube.com/watch?v=O7Bec2uX3ZQ&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=4
+
 Lecture 2:
 L2 Norm of functions
 
@@ -8,6 +10,12 @@ numerical integration (Later on)
 Inner Product
 
 Wait to watch linear maps.
+
+Gram-Schmidt to find orthonormal basis from a collection of basis vector.
+
+Fourier Transform Fourier decomposition
+
+Linear Equation
 
 
 Lecture 1 watched, please watch: https://www.youtube.com/watch?v=2c8XQlQApx8&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=3
