@@ -1,11 +1,15 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 3 finished, Goto https://www.youtube.com/watch?v=B0hsT2npIc0&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=5
+
 Lecture 3: triple product formula: det(u,v,w) =  dot(cross(u,v) ，w)
 
 Differential Operators
 
 Gradient
-#tmp progress https://youtu.be/O7Bec2uX3ZQ?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&t=3271
+La Gardient is hard for me, but it is useful.
+
+Laplacian & Hessian
 
 Lecture 2 finished, Goto https://www.youtube.com/watch?v=O7Bec2uX3ZQ&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=4
 
