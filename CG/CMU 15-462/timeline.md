@@ -1,5 +1,25 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 4 finished, Goto https://www.youtube.com/watch?v=QmFBHSJS0Gw&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=6
+Lecture 4: Rasterization
+
+Triangle is the primitive.
+Coverage via sampling
+Aliasing!
+Nyquist-Shannon theorem
+
+Image artifacts:
+- "Jaggies" in a static image
+- "Roping" or "shimmering" when animated
+- Moire patterns in high-frequency areas
+
+Point-in-triangle test
+three half-plane test
+incremental traversal
+parallel coverage test, test all samples in triangle bounding box in parallel.
+Tiled triangle traversal
+Hierarchical strategies!
+
 Lecture 3 finished, Goto https://www.youtube.com/watch?v=B0hsT2npIc0&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=5
 
 Lecture 3: triple product formula: det(u,v,w) =  dot(cross(u,v) ，w)
