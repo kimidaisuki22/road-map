@@ -1,6 +1,18 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 5 finished, goto https://www.youtube.com/watch?v=YF5ZUlKxSgE&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=7
+
+Lecture 5: basic transformations
+
+Decomposition of linear transformations
+
+Polar & Singular value decomposition
+Interpolating transformation [Shoemake & Duff "Matrix Animation and Polar Decomposition]
+
+Homogeneous Coordinates
+
 Lecture 4 finished, Goto https://www.youtube.com/watch?v=QmFBHSJS0Gw&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=6
+
 Lecture 4: Rasterization
 
 Triangle is the primitive.
