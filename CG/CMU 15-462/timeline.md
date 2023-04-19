@@ -1,5 +1,27 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 6 finished, goto https://www.youtube.com/watch?v=_4Q4O2Kgdo4&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=8
+
+Lecture 6 3D rotation
+
+latitude & longitude
+
+Euler Angles, Gimbal lock
+
+Complex number
+
+Complex multiplication:
+- angles add
+- magnitudes multiply
+
+Quaternions:
+Scalar + Vector From
+
+[Lie algebras]
+
+Maybe I will review this lecture later (for Quaternions).
+
+
 Lecture 5 finished, goto https://www.youtube.com/watch?v=YF5ZUlKxSgE&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=7
 
 Lecture 5: basic transformations
