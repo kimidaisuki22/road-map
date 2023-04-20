@@ -1,5 +1,33 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 7 finished, goto https://www.youtube.com/watch?v=WtYfF48Z9mA&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=9
+
+Lecture 7 Perspective Project &  Texture Mapping
+
+Small clip range to avoid z-fighting
+
+Perspective transform http://www.songho.ca/opengl/gl_projectionmatrix.html
+
+Barycentric Coordinates
+
+Perspective-Correct interpolation. interpolate in 3D space
+
+Texture mapping
+- normal
+- displacement
+
+Texture sampling (magnification)
+- nearest neighbor
+- bilinear interpolation
+
+Texture refiltering
+
+mip map
+- Trilinear interpolation: interpolate between different mip map level with bilinear interpolation
+
+Anisotropic Filtering
+interpolation more mip map level
+
 Lecture 6 finished, goto https://www.youtube.com/watch?v=_4Q4O2Kgdo4&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=8
 
 Lecture 6 3D rotation
