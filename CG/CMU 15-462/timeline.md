@@ -1,5 +1,13 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 8 finished, goto https://www.youtube.com/watch?v=MakhXtIX2YM&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=10
+
+Lecture 8 Depth & Transparency
+
+premultiplied alpha
+
+Pipeline wrap up
+
 Lecture 7 finished, goto https://www.youtube.com/watch?v=WtYfF48Z9mA&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=9
 
 Lecture 7 Perspective Project &  Texture Mapping
