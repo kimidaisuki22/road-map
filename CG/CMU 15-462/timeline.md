@@ -1,5 +1,17 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 10 finished, goto https://www.youtube.com/watch?v=BwpEoZYcrwY&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=12
+
+Lecture 10 Meshes and Manifolds
+
+Polygon soup
+Adjacency List: vertices and polygons with vertices index
+
+Incidence Matrices: most of values are zero, use sparse matrices. Hard to change connectivity, since it used fixed indices. Mesh does not have to be manifold.
+
+Halfedge data structure
+design halfedge-type data structures: http://geometry-central.net/
+
 Lecture 9 finished, goto https://www.youtube.com/watch?v=HePDHsp8spU&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=11
 
 Lecture 9 Introduction to geometry
@@ -19,7 +31,7 @@ premultiplied alpha
 
 Pipeline wrap up
 
-Lecture 7 finished, goto https://www.youtube.com/watch?v=WtYfF48Z9mA&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=9
+ https://www.youtube.com/watch?v=WtYfF48Z9mA&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=9
 
 Lecture 7 Perspective Project &  Texture Mapping
 
