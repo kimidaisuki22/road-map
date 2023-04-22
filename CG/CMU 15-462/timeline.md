@@ -1,5 +1,16 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 9 finished, goto https://www.youtube.com/watch?v=HePDHsp8spU&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=11
+
+Lecture 9 Introduction to geometry
+
+- EXPLICIT
+- IMPLICIT
+
+Bernstein Basis
+curves
+
+
 Lecture 8 finished, goto https://www.youtube.com/watch?v=MakhXtIX2YM&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=10
 
 Lecture 8 Depth & Transparency
