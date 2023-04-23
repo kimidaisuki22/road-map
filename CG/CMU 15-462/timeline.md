@@ -1,5 +1,14 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 11 finished, goto https://www.youtube.com/watch?v=GPPyUT9Pytw&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=13
+
+Lecture 11 Geometry Processing
+
+Subdivision
+Edge Collapse (quadric error metric) sum of squared point-to-plane distances
+positive definition
+Delaunay
+
 Lecture 10 finished, goto https://www.youtube.com/watch?v=BwpEoZYcrwY&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=12
 
 Lecture 10 Meshes and Manifolds
