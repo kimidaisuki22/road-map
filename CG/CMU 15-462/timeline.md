@@ -1,5 +1,14 @@
 CMU 15-462/662 (Computer Graphics)
 
+
+Lecture 13 finished, goto https://www.youtube.com/watch?v=77WBg0Mprt0&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=15
+
+Lecture 13 Spatial Data Structures
+
+BVH
+K-D tree
+octree
+
 Lecture 12 finished, goto https://www.youtube.com/watch?v=NF7r-pC8fFc&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=14
 Lecture 12 Geometric Queries
 
