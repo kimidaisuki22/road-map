@@ -1,6 +1,8 @@
 CMU 15-462/662 (Computer Graphics)
 
 
+Lecture 14 finished, goto https://www.youtube.com/watch?v=5lGYm8L_rfo&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=16
+
 Lecture 13 finished, goto https://www.youtube.com/watch?v=77WBg0Mprt0&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=15
 
 Lecture 13 Spatial Data Structures
