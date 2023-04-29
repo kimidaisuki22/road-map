@@ -1,5 +1,8 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 15 finished, goto https://www.youtube.com/watch?v=Ttxdbn7TSLI&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=17
+
+Lecture 15 Radiometry
 
 Lecture 14 finished, goto https://www.youtube.com/watch?v=5lGYm8L_rfo&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=16
 
