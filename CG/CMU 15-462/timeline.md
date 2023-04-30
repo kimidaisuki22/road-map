@@ -1,5 +1,11 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 16 finished, goto https://www.youtube.com/watch?v=EGNZm9m382s&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=18
+
+Lecture 16 The rendering equation
+
+different reflection functions
+
 Lecture 15 finished, goto https://www.youtube.com/watch?v=Ttxdbn7TSLI&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=17
 
 Lecture 15 Radiometry
