@@ -1,5 +1,19 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 18 finished, goto https://www.youtube.com/watch?v=IQhLk_XaFc8&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=20
+
+Lecture 18 Monte Carlo Rendering
+
+Lecture 17 finished, goto https://www.youtube.com/watch?v=FUZJNlRqrAc&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=19
+
+Lecture 17 Numerical Integration
+
+Gauss Quadrature
+Trapezoid rule
+Monte Carlo Integration
+PDF
+Cumulative distribution function
+
 Lecture 16 finished, goto https://www.youtube.com/watch?v=EGNZm9m382s&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=18
 
 Lecture 16 The rendering equation
