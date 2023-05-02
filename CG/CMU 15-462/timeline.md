@@ -1,5 +1,11 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 20 finished, goto https://www.youtube.com/watch?v=Fi9xu3z97W4&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=22
+
+Lecture 20 Animation
+
+All kinds of Splines
+
 Lecture 19 finished, goto https://www.youtube.com/watch?v=XVTw68iHef0&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=22
 
 lecture 19 Variance Reduction
