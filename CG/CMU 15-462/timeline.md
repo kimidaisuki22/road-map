@@ -1,5 +1,9 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 19 finished, goto https://www.youtube.com/watch?v=XVTw68iHef0&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=22
+
+lecture 19 Variance Reduction
+
 Lecture 18 finished, goto https://www.youtube.com/watch?v=IQhLk_XaFc8&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=20
 
 Lecture 18 Monte Carlo Rendering
