@@ -1,5 +1,8 @@
 CMU 15-462/662 (Computer Graphics)
 
+
+Lecture 21 finished, goto https://www.youtube.com/watch?v=sDAEFFoiKZ0&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=23
+
 Resume!
 Lecture 21 Dynamics and Time Integration
 
@@ -7,7 +10,7 @@ Lagrangian Mechanics
 
 flocking: attraction repulsion alignment
 
-*have a rest to particle system part.
+Mass spring system
 
 Lecture 20 finished, goto https://www.youtube.com/watch?v=Fi9xu3z97W4&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=22
 
