@@ -1,6 +1,10 @@
 CMU 15-462/662 (Computer Graphics)
 
 
+Lecture 22 Optimization
+
+Lecture 22 finished, goto https://www.youtube.com/watch?v=gqdXsw_Q_as&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=24&ab_channel=KeenanCrane
+
 Lecture 21 finished, goto https://www.youtube.com/watch?v=sDAEFFoiKZ0&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=23
 
 Resume!
