@@ -1,5 +1,11 @@
 CMU 15-462/662 (Computer Graphics)
 
+Lecture 23 finished, goto https://www.youtube.com/watch?v=yJ5eY3EIImA&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=25&ab_channel=KeenanCrane
+
+Lecture 23 Physically based animation and PDEs
+
+Learn PDE, NOW!
+![Alt text](images/books.png)
 
 Lecture 22 Optimization
 
